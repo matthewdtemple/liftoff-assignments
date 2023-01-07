@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are making a Housing application, where users can add, search, and view houses available in an area. The application will also contain a realtor user, which can be assigned to a property by a buyer, and the realtor will "manage: property. Each user will have a "home" page, which will display relevant information according to their user type. 
 ### Features
-Include Features here
+User creation and login: there are three types of users available, buyers, sellers, and realtors.
+Property creation: Ability to add property with info and images of property
+Search properties: Ability to search available properties 
+Map of properties: After property creation, utilize google maps api to display properties on a map
 ### Technologies
-Include Technologies here
+Back End: MySQL, Java, SpringBoot
+Front End: HTML, Javascript, CSS, Thymeleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to interface with google APIs, and how to distribute features to specific users
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/8sqmwpCI/ddesmi-launch-codes
