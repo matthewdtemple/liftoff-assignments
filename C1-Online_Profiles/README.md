@@ -7,12 +7,13 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
- 
+https://github.com/matthewdtemple
+
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/matthew-temple-690351160/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Resume in folder.
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
