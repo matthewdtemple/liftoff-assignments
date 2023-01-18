@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://www.figma.com/file/TBHWBAX7enQkPQbYO1FFNQ/LiftOff-Capstone?node-id=0%3A1
+https://imgur.com/a/17X2VRu
 
 ### Project Tracker
 
